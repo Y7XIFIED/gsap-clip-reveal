@@ -1,0 +1,6 @@
+{
+  "name": "gsap-clip-reveal",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite"
+}
